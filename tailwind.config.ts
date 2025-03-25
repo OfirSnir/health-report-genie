@@ -1,4 +1,3 @@
-
 import type { Config } from "tailwindcss";
 
 export default {
@@ -35,7 +34,7 @@ export default {
           accent: '#287FB8',
           muted: '#D0E6F8',
           light: '#F5F9FD',
-          dark: '#0A325F'
+          dark: '#013046'
         },
         primary: {
           DEFAULT: 'hsl(var(--primary))',
@@ -77,8 +76,8 @@ export default {
         }
       },
       fontFamily: {
-        sans: ['Inter', 'system-ui', 'sans-serif'],
-        display: ['SF Pro Display', 'Inter', 'system-ui', 'sans-serif']
+        sans: ['Poppins', 'system-ui', 'sans-serif'],
+        display: ['Poppins', 'system-ui', 'sans-serif']
       },
       borderRadius: {
         lg: 'var(--radius)',
