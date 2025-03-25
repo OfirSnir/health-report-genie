@@ -129,7 +129,7 @@
   }
   
   .phq-score-moderate {
-    @apply bg-yellow-100 text-yellow-700;
+    @apply bg-[#FEF5F0] text-[#A03E25];
   }
   
   .phq-score-severe {
