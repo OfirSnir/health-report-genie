@@ -57,22 +57,22 @@ const PHQScorecard: React.FC<PHQScorecardProps> = ({
           <table className="w-full">
             <thead>
               <tr className="border-b border-gray-100">
-                <th className="text-left text-xs font-medium text-gray-500 uppercase tracking-wider py-3 w-1/2">
+                <th className="text-left text-xs font-medium text-gray-500 py-3 w-1/2">
                   Over the last 2 weeks, how often have you been bothered by any of the following problems?
                 </th>
-                <th className="text-center text-xs font-medium text-gray-500 uppercase tracking-wider py-3 w-1/8">
+                <th className="text-center text-xs font-medium text-gray-500 py-3 w-1/8">
                   0
                   <div className="text-[10px] font-normal normal-case">Not at all</div>
                 </th>
-                <th className="text-center text-xs font-medium text-gray-500 uppercase tracking-wider py-3 w-1/8">
+                <th className="text-center text-xs font-medium text-gray-500 py-3 w-1/8">
                   1
                   <div className="text-[10px] font-normal normal-case">Several days</div>
                 </th>
-                <th className="text-center text-xs font-medium text-gray-500 uppercase tracking-wider py-3 w-1/8">
+                <th className="text-center text-xs font-medium text-gray-500 py-3 w-1/8">
                   2
                   <div className="text-[10px] font-normal normal-case">Over half of the days</div>
                 </th>
-                <th className="text-center text-xs font-medium text-gray-500 uppercase tracking-wider py-3 w-1/8">
+                <th className="text-center text-xs font-medium text-gray-500 py-3 w-1/8">
                   3
                   <div className="text-[10px] font-normal normal-case">Nearly every day</div>
                 </th>
